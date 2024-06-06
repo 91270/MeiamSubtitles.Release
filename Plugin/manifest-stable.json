@@ -21,8 +21,8 @@
         "changelog": "### 适配新版 Jellyfin ###\n",
         "targetAbi": "10.9.2.0",
         "sourceUrl": "https://github.com/91270/MeiamSubtitles.Release/raw/main/Plugin/Jellyfin.MeiamSub.Shooter_1.0.10.0.zip",
-        "checksum": "3296044C124C286189F95089F4C22B8C",
-        "timestamp": "2024-05-23T18:43:43Z"
+        "checksum": "C9893AF4F37AF67D977FD0E8B53F1225",
+        "timestamp": "2024-06-06T14:43:43Z"
       }
     ]
   },
@@ -48,8 +48,8 @@
         "changelog": "### 适配新版 Jellyfin ###\n",
         "targetAbi": "10.9.2.0",
         "sourceUrl": "https://github.com/91270/MeiamSubtitles.Release/raw/main/Plugin/Jellyfin.MeiamSub.Thunder_1.0.10.0.zip",
-        "checksum": "9271AC68E6C1BFF277D3630899B9EB43",
-        "timestamp": "2024-05-23T18:43:43Z"
+        "checksum": "CEE120A1953334FBE0519DAF2706D31D",
+        "timestamp": "2024-06-06T14:43:43Z"
       }
     ]
   }
