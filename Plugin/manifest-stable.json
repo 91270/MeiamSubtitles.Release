@@ -5,7 +5,7 @@
     "description": "Download subtitles from Shooter\n",
     "overview": "",
     "owner": "MeiamSubtitles",
-    "category": "Metadata",
+    "category": "Subtitles",
     "imageUrl": "https://github.com/91270/MeiamSubtitles.Release/raw/main/Plugin/images/Jellyfin.MeiamSub.Shooter.png",
     "versions": [
       {
@@ -23,14 +23,6 @@
         "sourceUrl": "https://github.com/91270/MeiamSubtitles.Release/raw/main/Plugin/Jellyfin.MeiamSub.Shooter_1.0.12.0.zip",
         "checksum": "CDDA24D637F50464CC8417A7E5D18872",
         "timestamp": "2025-09-29T09:51:43Z"
-      },
-      {
-        "version": "1.0.11.0",
-        "changelog": "### 修复已知BUG ###\n",
-        "targetAbi": "10.10.3.0",
-        "sourceUrl": "https://github.com/91270/MeiamSubtitles.Release/raw/main/Plugin/Jellyfin.MeiamSub.Shooter_1.0.11.0.zip",
-        "checksum": "B6562B37BCB0A7D673ADCC9C170B84E3",
-        "timestamp": "2025-01-14T17:40:43Z"
       }
     ]
   },
@@ -40,7 +32,7 @@
     "description": "Download subtitles from Thunder XMP\n",
     "overview": "",
     "owner": "MeiamSubtitles",
-    "category": "Metadata",
+    "category": "Subtitles",
     "imageUrl": "https://github.com/91270/MeiamSubtitles.Release/raw/main/Plugin/images/Jellyfin.MeiamSub.Thunder.png",
     "versions": [
       {
@@ -58,14 +50,6 @@
         "sourceUrl": "https://github.com/91270/MeiamSubtitles.Release/raw/main/Plugin/Jellyfin.MeiamSub.Thunder_1.0.12.0.zip",
         "checksum": "38D94C6085B187B658C34C138C83789B",
         "timestamp": "2025-09-29T09:51:43Z"
-      },
-      {
-        "version": "1.0.11.0",
-        "changelog": "### 修复已知BUG ###\n",
-        "targetAbi": "10.10.3.0",
-        "sourceUrl": "https://github.com/91270/MeiamSubtitles.Release/raw/main/Plugin/Jellyfin.MeiamSub.Thunder_1.0.11.0.zip",
-        "checksum": "848DF477C15A009BFA56630CD4753F2C",
-        "timestamp": "2025-01-14T17:40:43Z"
       }
     ]
   }
