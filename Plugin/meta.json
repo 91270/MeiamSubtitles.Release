@@ -1,0 +1,14 @@
+{
+  "category": "",
+  "changelog": "",
+  "description": "Download subtitles from Thunder XMP",
+  "guid": "e4ce9da9-ef00-417c-96f2-861c512d45eb",
+  "name": "MeiamSub.Thunder",
+  "overview": "",
+  "owner": "",
+  "targetAbi": "10.10.3.0",
+  "timestamp": "0001-01-01T00:00:00.0000000Z",
+  "version": "1.0.12.0",
+  "status": "Active",
+  "autoUpdate": true
+}
