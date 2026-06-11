@@ -9,6 +9,14 @@
     "imageUrl": "https://github.com/91270/MeiamSubtitles.Release/raw/main/Plugin/images/Jellyfin.MeiamSub.Shooter.png",
     "versions": [
       {
+        "version": "1.0.14.0",
+        "changelog": "### 修复已知问题，提升插件稳定性 ###\n",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/91270/MeiamSubtitles.Release/raw/main/Plugin/Jellyfin.MeiamSub.Shooter_1.0.14.0.zip",
+        "checksum": "0D1A6699E6E3C35C2398D2F2467090D4",
+        "timestamp": "2026-06-11T03:17:06Z"
+      },
+      {
         "version": "1.0.13.0",
         "changelog": "### 1. 适配 Jellyfin 10.11+，升级至 .NET 9.0\n2. 修复 zho 语言代码识别问题\n3. 全面异步 I/O 化\n4. 增加射手网 API 防御性加固与日志记录 ###\n",
         "targetAbi": "10.11.0.0",
@@ -59,6 +67,14 @@
     "category": "Subtitles",
     "imageUrl": "https://github.com/91270/MeiamSubtitles.Release/raw/main/Plugin/images/Jellyfin.MeiamSub.Thunder.png",
     "versions": [
+      {
+        "version": "1.0.14.0",
+        "changelog": "### 修复已知问题，提升插件稳定性 ###\n",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/91270/MeiamSubtitles.Release/raw/main/Plugin/Jellyfin.MeiamSub.Thunder_1.0.14.0.zip",
+        "checksum": "398A901EE735F567ACDCD70EC303FA52",
+        "timestamp": "2026-06-11T03:17:06Z"
+      },
       {
         "version": "1.0.13.0",
         "changelog": "### 1. 适配 Jellyfin 10.11+，升级至 .NET 9.0\n2. 修复 zho 语言代码识别问题\n3. 全面异步 I/O 化 ###\n",
