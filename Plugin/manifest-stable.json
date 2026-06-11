@@ -10,10 +10,10 @@
     "versions": [
       {
         "version": "1.0.14.0",
-        "changelog": "### 修复已知问题，提升插件稳定性 ###\n",
+        "changelog": "### 1. 修复已知问题，提升插件稳定性\n2. 修复在网络库（如 SMB）挂载路径下计算哈希失败导致字幕搜索崩溃的问题 ###\n",
         "targetAbi": "10.11.0.0",
         "sourceUrl": "https://github.com/91270/MeiamSubtitles.Release/raw/main/Plugin/Jellyfin.MeiamSub.Shooter_1.0.14.0.zip",
-        "checksum": "0D1A6699E6E3C35C2398D2F2467090D4",
+        "checksum": "4C674D835B74E13B2433B6A9E478023B",
         "timestamp": "2026-06-11T03:17:06Z"
       },
       {
@@ -69,10 +69,10 @@
     "versions": [
       {
         "version": "1.0.14.0",
-        "changelog": "### 修复已知问题，提升插件稳定性 ###\n",
+        "changelog": "### 1. 修复已知问题，提升插件稳定性\n2. 修复在网络库（如 SMB）挂载路径下计算哈希失败导致字幕搜索崩溃的问题 ###\n",
         "targetAbi": "10.11.0.0",
         "sourceUrl": "https://github.com/91270/MeiamSubtitles.Release/raw/main/Plugin/Jellyfin.MeiamSub.Thunder_1.0.14.0.zip",
-        "checksum": "398A901EE735F567ACDCD70EC303FA52",
+        "checksum": "4A71B7F63A13F7C73C7449673EC3BCE7",
         "timestamp": "2026-06-11T03:17:06Z"
       },
       {
